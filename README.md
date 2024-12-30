@@ -21,7 +21,7 @@
 
 1. **Clone o repositório:**
    ```bash
-   git clone https://github.com/rubens-maldonado/ft_printf.git
+   git clone https://github.com/rubens-maldonado/PRINTF.git
 
 2. **Compile a biblioteca:** Dentro da pasta do repositório:
     ```bash
